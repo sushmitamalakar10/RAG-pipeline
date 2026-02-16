@@ -3,3 +3,6 @@ langchain-core
 langchain-community
 pypdf
 pymupdf
+sentence-transformers # hugging face library
+faiss-cpu # vector store
+chromadb # vector store
